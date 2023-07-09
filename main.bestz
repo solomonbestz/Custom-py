@@ -1,0 +1,8 @@
+
+first_name = write_sumtin('Enter First Name: ')
+last_name = write_sumtin('Enter Last Name: ')
+
+
+show_dem(f'Welcome {first_name} {last_name}')
+
+
